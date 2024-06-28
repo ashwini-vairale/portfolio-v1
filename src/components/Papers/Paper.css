@@ -1,0 +1,31 @@
+.paper_item {
+    display: grid;
+    grid-template-columns: 0.3fr 8fr 2fr;
+    margin: 1.5rem auto;
+}
+
+.paper_item a {
+    font-size: 1.5rem;
+}
+
+.paper_item h3,
+.paper_item a {
+    margin: 10px 0px;
+}
+
+
+.paper_item h3 {
+    line-height: 1;
+    position: relative;
+    z-index: 1;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-image: linear-gradient(to right, var(--themeColor), var(--themeColor) 50%, #000000 50%);
+    background-size: 200% 100%;
+    background-position: -100%;
+    transition: all 0.5s ease-in-out;
+}
+
+.paper_item h3:hover {
+    background-position: 0%;
+}

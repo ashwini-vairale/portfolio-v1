@@ -1,0 +1,26 @@
+h1 {
+    color: var(--themeColor2)
+}
+
+
+.accomplishments-nav {
+    font-size: 2rem;
+}
+
+.navbar-nav {
+    gap: 15px;
+}
+
+.navbar-nav .nav-item.active a.accomplishments-link {
+    color: var(--themeColor) !important;
+}
+
+.navbar-nav .accomplishments-link {
+    color: #000000bd !important;
+}
+
+@media (max-width:480px) {
+    .accomplishments-nav {
+        font-size: 1.5rem;
+    }
+}
