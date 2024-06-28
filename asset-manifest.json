@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/portfolio-v1/static/css/main.3d34855f.css",
+    "main.js": "/portfolio-v1/static/js/main.83b6d85c.js",
+    "static/js/453.c89d911c.chunk.js": "/portfolio-v1/static/js/453.c89d911c.chunk.js",
+    "static/media/a3.jpg": "/portfolio-v1/static/media/a3.94d68b4ee6f36ae118a1.jpg",
+    "static/media/a1.jpg": "/portfolio-v1/static/media/a1.5e7a23536cf5da3439ab.jpg",
+    "static/media/a4.jpg": "/portfolio-v1/static/media/a4.430aed704bd982ace627.jpg",
+    "static/media/a0.jpg": "/portfolio-v1/static/media/a0.ae87b206a316570f6e50.jpg",
+    "static/media/p3.jpg": "/portfolio-v1/static/media/p3.0c635277bb5b8f09969d.jpg",
+    "static/media/p2.jpg": "/portfolio-v1/static/media/p2.c609abb8ece893975722.jpg",
+    "static/media/a2.jpg": "/portfolio-v1/static/media/a2.c442aa9982d7fe73c084.jpg",
+    "static/media/p4.jpg": "/portfolio-v1/static/media/p4.330c9729ccb556ec1d4c.jpg",
+    "static/media/Ashu_collage.jpg": "/portfolio-v1/static/media/Ashu_collage.552c4ccfbb1c18970b60.jpg",
+    "static/media/p6.jpg": "/portfolio-v1/static/media/p6.8b1716f54a454381914c.jpg",
+    "static/media/p1.png": "/portfolio-v1/static/media/p1.b1939b154b76b1e50433.png",
+    "static/media/p5.jpg": "/portfolio-v1/static/media/p5.1732dbfaeb582eaf705c.jpg",
+    "static/media/a-1.jpg": "/portfolio-v1/static/media/a-1.ab60f162baf561e8156f.jpg",
+    "static/media/pro1.jpg": "/portfolio-v1/static/media/pro1.5e3885dd9d6ed63d9fe9.jpg",
+    "static/media/Ashwini_vairale_resume.pdf": "/portfolio-v1/static/media/Ashwini_vairale_resume.9a6107c7cb5041707ae8.pdf",
+    "static/media/pharmacist-lady.png": "/portfolio-v1/static/media/pharmacist-lady.346e9f97ae2d217cc661.png",
+    "static/media/pill.png": "/portfolio-v1/static/media/pill.b32b11e8d107aefdbc95.png",
+    "static/media/pharma.png": "/portfolio-v1/static/media/pharma.5980841a6474a1cf6f6a.png",
+    "static/media/chemicals.png": "/portfolio-v1/static/media/chemicals.0d7f1a1ba00c7b5f4e6e.png",
+    "static/media/drug.png": "/portfolio-v1/static/media/drug.7ba2d5d105da75293a4f.png",
+    "static/media/magnifier.png": "/portfolio-v1/static/media/magnifier.3a2c905eef4fd0927a6c.png",
+    "static/media/medicine.png": "/portfolio-v1/static/media/medicine.ceb4682a6a59f1c1a6e9.png",
+    "static/media/flask.png": "/portfolio-v1/static/media/flask.cb873924ab032d42c1ac.png",
+    "static/media/syringe.png": "/portfolio-v1/static/media/syringe.437f3ee6fb14b5d83170.png",
+    "index.html": "/portfolio-v1/index.html",
+    "main.3d34855f.css.map": "/portfolio-v1/static/css/main.3d34855f.css.map",
+    "main.83b6d85c.js.map": "/portfolio-v1/static/js/main.83b6d85c.js.map",
+    "453.c89d911c.chunk.js.map": "/portfolio-v1/static/js/453.c89d911c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d34855f.css",
+    "static/js/main.83b6d85c.js"
+  ]
+}
